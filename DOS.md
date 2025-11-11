@@ -7,7 +7,7 @@
 - Beat any episode without falling into any death traps.
 - Beat the first part of the final level without dying.
 - Beat a level without getting hurt.
-- Get an impossible score.
+- Get an impossible score. (Glitch)
 
 ## Hocus Pocus
 - Get both bonuses on all the levels in Episode 1 "Time Tripping" on Hard mode.
@@ -37,3 +37,20 @@
 
 ## Sandwarriors
 - Score higher than 2460127, playing on "Very High" difficulty.
+
+## Tyrian 2000
+- Cause over 90% destruction on any level
+- Upgrade any weapon to level 11
+- Buy the SuperCarrot
+- Buy the MicroFusion generator
+- Buy the Solar shield
+- Find all the cubes on any level
+- Beat Episode 1
+- Beat Episode 2
+- Beat Episode 3
+- Beat Episode 4
+- Beat Episode 5
+- Find any secret level
+- Find ALL the secret levels on any episode
+- Beat any episode on arcade mode
+- Find the Commodore Amiga rainbow checkmark
