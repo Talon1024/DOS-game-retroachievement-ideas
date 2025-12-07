@@ -42,7 +42,7 @@
 - Cause over 90% destruction on any level
 - Upgrade any weapon to level 11
 - Buy the SuperCarrot
-- Buy the MicroFusion generator
+- Buy the Gravitron Pulse-Wave generator
 - Buy the Solar shield
 - Find all the cubes on any level
 - Beat Episode 1
