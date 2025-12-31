@@ -54,3 +54,8 @@
 - Find ALL the secret levels on any episode
 - Beat any episode on arcade mode
 - Find the Commodore Amiga rainbow checkmark
+
+## Airlift Rescue
+- Beat the game without losing any hostages
+- Beat the game without dying
+
