@@ -43,6 +43,7 @@
 - Upgrade any weapon to level 11
 - Buy the SuperCarrot
 - Buy the Gravitron Pulse-Wave generator
+- Buy the Microcorp HXS Class A shield
 - Buy the Solar shield
 - Find all the cubes on any level
 - Beat Episode 1
@@ -58,4 +59,3 @@
 ## Airlift Rescue
 - Beat the game without losing any hostages
 - Beat the game without dying
-
