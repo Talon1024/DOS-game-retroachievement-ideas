@@ -55,6 +55,7 @@
 - Find ALL the secret levels on any episode
 - Beat any episode on arcade mode
 - Find the Commodore Amiga rainbow checkmark
+- Collect all gems and armor pickups on "Maces"
 
 ## Airlift Rescue
 - Beat the game without losing any hostages
